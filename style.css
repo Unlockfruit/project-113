@@ -1,0 +1,14 @@
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:1px solid black;
+    margin-left: 25%;
+}
+
+body{
+    background-image: linear-gradient(to bottom, rgb(255, 0, 238), rgb(0, 225, 255));
+    text-align: center;
+    overflow: hidden;
+}
